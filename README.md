@@ -1,18 +1,10 @@
-# bots
-Основной репозиторий с ботами
-
-Main bots repository
-
-
-
 # CustomNotification
 
 
 
 
-Бот кастомных уведомлений.\
-Присылает сводку уведомлений через определенный пользователем промежуток времени. В данный момент может присылать курсы заданных криптовалют.
-Данные пользователей (сессий) хранятся в базе данных. Написан на Aiogram так что работает асинхронно то есть может вести множество пользовательский сессий одновременно.
+Custom notification bot.\
+Sends a summary of notifications after a user-defined period of time. At this moment, it can send rates of specified cryptocurrencies. User data (sessions) are stored in a database. It is written in Aiogram, so it works asynchronously, that is, it can maintain many user sessions simultaneously.
 
 [Bot start link](https://t.me/Trash21bot?start)
 
