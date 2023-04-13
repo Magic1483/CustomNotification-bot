@@ -6,6 +6,8 @@
 Custom notification bot.\
 Sends a summary of notifications after a user-defined period of time. At this moment, it can send rates of specified cryptocurrencies. User data (sessions) are stored in a database. It is written in Aiogram, so it works asynchronously, that is, it can maintain many user sessions simultaneously.
 
+P.S used binance api for parsing cryptocurrency, if binance does not work with your ip this bot will not work.
+
 [Bot start link](https://t.me/Trash21bot?start)
 
 #Usage
