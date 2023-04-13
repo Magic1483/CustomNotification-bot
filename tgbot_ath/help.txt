@@ -1,3 +1,0 @@
-ps aux | grep -i  FIND PROCESS BY NAME
-
-nohup python3.10 main.py &  START BOT AT BACKGROUND
